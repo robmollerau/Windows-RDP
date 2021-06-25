@@ -1,11 +1,8 @@
 # List and kill Windows RDP Sessions
 
-# List and 
-
 ## Installation
 
 Copy batch file to an empty folder. Run with Administrator privileges
-
 
 ## Information
 
