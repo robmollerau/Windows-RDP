@@ -1,4 +1,4 @@
-# Windows-RDP - List and kill Windows RDP Sessions
+# List and kill Windows RDP Sessions
 
 # List and 
 
