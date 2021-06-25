@@ -18,4 +18,4 @@ At the prompt enter the session ID to kill. You will then be presented with an u
 
 ## License
 
-Open License
+Open license
